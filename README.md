@@ -1,2 +1,3 @@
 # accessibilite
 accessibilite
+ce programme est écrit en python et permet au utilisateurs novices de windows de modifier les parametres d'accessibilités de leurs systèmes tels que la luminosité, la constrate, etc...
